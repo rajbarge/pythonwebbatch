@@ -1,0 +1,9 @@
+//hello rajs ir
+
+main()
+{
+    int no;
+    scanf("%d",&no);
+
+    
+}
